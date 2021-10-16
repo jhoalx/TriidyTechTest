@@ -124,10 +124,13 @@
   <ItemGroup>
     <Compile Include="App_Start\WebApiConfig.vb" />
     <Compile Include="Controllers\HighestNumController.vb" />
+    <Compile Include="Controllers\LoginController.vb" />
     <Compile Include="Global.asax.vb">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
-    <Compile Include="Models\GreatherThanModel.vb" />
+    <Compile Include="Middleware\TokenValidationHandler.vb" />
+    <Compile Include="Models\GreatherThan.vb" />
+    <Compile Include="Models\UserLogin.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>

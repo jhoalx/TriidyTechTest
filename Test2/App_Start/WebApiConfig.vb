@@ -10,6 +10,9 @@ Public Module WebApiConfig
         ' Web API routes
         config.MapHttpAttributeRoutes()
 
+        ' JWT Auth middleware
+        config.MessageHandlers.Add(New TokenValidationHandler())
+
         config.Routes.MapHttpRoute(
             name:="DefaultApi",
             routeTemplate:="api/{controller}/{id}",

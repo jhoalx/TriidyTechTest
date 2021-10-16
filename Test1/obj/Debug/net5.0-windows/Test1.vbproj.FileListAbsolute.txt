@@ -12,8 +12,8 @@ C:\Users\jhoal\source\repos\TriidyTechTest\Test1\obj\Debug\net5.0-windows\Test1.
 C:\Users\jhoal\source\repos\TriidyTechTest\Test1\obj\Debug\net5.0-windows\Test1.AssemblyInfoInputs.cache
 C:\Users\jhoal\source\repos\TriidyTechTest\Test1\obj\Debug\net5.0-windows\Test1.AssemblyInfo.vb
 C:\Users\jhoal\source\repos\TriidyTechTest\Test1\obj\Debug\net5.0-windows\Test1.vbproj.CoreCompileInputs.cache
-C:\Users\jhoal\source\repos\TriidyTechTest\Test1\obj\Debug\net5.0-windows\Test1.vbproj.CopyComplete
 C:\Users\jhoal\source\repos\TriidyTechTest\Test1\obj\Debug\net5.0-windows\Test1.dll
 C:\Users\jhoal\source\repos\TriidyTechTest\Test1\obj\Debug\net5.0-windows\ref\Test1.dll
 C:\Users\jhoal\source\repos\TriidyTechTest\Test1\obj\Debug\net5.0-windows\Test1.pdb
 C:\Users\jhoal\source\repos\TriidyTechTest\Test1\obj\Debug\net5.0-windows\Test1.genruntimeconfig.cache
+C:\Users\jhoal\source\repos\TriidyTechTest\Test1\obj\Debug\net5.0-windows\Test1.vbproj.AssemblyReference.cache

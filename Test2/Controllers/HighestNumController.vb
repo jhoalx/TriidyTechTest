@@ -7,9 +7,9 @@ Namespace Controllers
         Inherits ApiController
 
         ' POST: api/HighestNum
+        <Authorize>
         <HttpPost>
-        Function GetHighestNum(<FromBody()> ByVal value As Object)
-            Dim requestData As GreatherThan = JsonConvert.DeserializeObject(Of GreatherThan)(value.ToString())
+        Function GetHighestNum(<FromBody()> ByVal requestData As GreatherThan)
             Return Ok(requestData.getHighestNumber())
         End Function
 
