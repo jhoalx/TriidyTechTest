@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7k/dhDS6QDvaFWBaxNY9sSN0zcCD+6meYR+vX+flU3bql8ryWWlcoRsMqueBUeYSQQhAEyO7fB6fuj2oVLbk5g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jhoal\\source\\repos\\TriidyTechTest\\Test1\\Test1.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jhoal\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
